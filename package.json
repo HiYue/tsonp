@@ -1,0 +1,19 @@
+{
+  "name": "tsonp",
+  "version": "1.0.0",
+  "description": "Use typescript to implement jsonp function",
+  "main": "index.js",
+  "author": "Justin Wang",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.11",
+    "@types/node": "^11.13.0",
+    "jest": "^24.7.1",
+    "ts-jest": "^24.0.1",
+    "typescript": "^3.4.1"
+  }
+}
